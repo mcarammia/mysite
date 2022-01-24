@@ -1,6 +1,6 @@
 ---
 title : "Forecasting asylum applications in the European Union with machine learning and data at scale"
-date : "2022-01-01"
+date : "2022-01-02"
 featured: true
 authors : ["admin", "Stefano Maria Iacus", "Teddy Wilkin"]
 publication_types : ["2"]
