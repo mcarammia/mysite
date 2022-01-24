@@ -1,0 +1,39 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Home
+    url: '#about'
+    weight: 10
+  # - name: Posts
+  #   url: '#posts'
+  #   weight: 20
+  - name: Projects
+    url: '#projects'
+    weight: 30
+# - name: Talks
+#   url: '#talks'
+#   weight: 40
+  - name: Publications
+    url: '#featured'
+    weight: 50
+  - name: Courses
+    url: '#courses'
+    # note: this was originally set as 'url: courses/'. If I set it like that,
+    # it will link to a page (rather than widget) that includes
+    # a nice demo for a course page (related folder is mysite/content/courses/)
+    # The page is still there for me to see: mysite/courses/ [currently (http://localhost:4321/courses/)]
+    # If I want to use that template, I need to set url here as above
+    # Plus probably remove 'courses.md' at 'mysite/content/home', as I now added it to 
+    # change the course section from page to widget
+    # For some reasons, by doing so the contents of the  'example' folder (so the example course) in mysite/content/courses
+    # is not shown in the widget
+    # it must have included some kind of pointer to the page and not the to the widget
+    # OK, NOTE: if I un-comment 'type: page' in the mysite/content/courses/_index.md, then
+    # my new courses re-appear in the 'external' (now hidden) courses page, along with the example course!
+    weight: 60
+  - name: Contact
+    url: '#contact'
+    weight: 70
