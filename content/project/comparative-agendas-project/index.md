@@ -1,7 +1,7 @@
 ---
 title: Comparative Agendas Project
 author: admin
-date: '2022-10-01'
+date: '2022-01-01'
 slug: comparative-agendas-project
 categories: []
 tags: 
