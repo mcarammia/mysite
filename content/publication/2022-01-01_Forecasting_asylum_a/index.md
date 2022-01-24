@@ -1,6 +1,7 @@
 ---
 title : "Forecasting asylum applications in the European Union with machine learning and data at scale"
 date : "2022-01-01"
+featured: true
 authors : ["admin", "Stefano Maria Iacus", "Teddy Wilkin"]
 publication_types : ["2"]
 publication : "*Nature Scientific Reports*, 12 (1), 1-16, www.nature.com/articles/s41598-022-05241-8"
@@ -13,9 +14,8 @@ abstract_short: ""
 image_preview : ""
 selected : false
 projects : [forecasting]
-tags : [forecasting]
-featured: true
-# doi: "10.1038/s41598-022-05241-8"
+tags : [Forecasting]
+# doi: 10.1038/s41598-022-05241-8
 url: "www.nature.com/articles/s41598-022-05241-8"
 url_pdf: ""
 url_preprint: ""
