@@ -13,7 +13,7 @@ selected : false
 projects : [forecasting]
 tags : [Forecasting]
 doi: 10.1038/s41598-022-05241-8
-url_pdf: "www.nature.com/articles/s41598-022-05241-8"
+url_pdf : "www.nature.com/articles/s41598-022-05241-8"
 url_preprint: ""
 url_code: ""
 url_dataset: ""
