@@ -1,0 +1,11 @@
+resulumit presentation: https://resulumit.com/teaching/rbd_workshop.html#
+netlify controlli e parametri: https://app.netlify.com/sites/marcellocarammia/settings/domain
+aruba gestione dominio: https://managehosting.aruba.it/areautenti.asp
+github https://github.com/mcarammia/mysite
+
+
+altro:
+distill: https://rstudio.github.io/distill/diagrams.html
+resulumit on github: https://resulumit.com/teaching/git_workshop.html#1
+github guida https://docs.github.com/en/get-started/quickstart/hello-world
+
