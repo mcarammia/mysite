@@ -2,6 +2,7 @@
 title: Prova post
 author: Marcello
 date: '2022-01-02'
+draft: true
 slug: prova-post
 categories: []
 tags: []
