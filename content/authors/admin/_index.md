@@ -46,10 +46,10 @@ superuser: true
 title: Marcello Carammia
 ---
 
-Since January 2020, I am a Senior Researcher at the Department of Political and Social Sciences of the University of Catania, Italy.
+I am an Associate Professor of Political Science at the Department of Political and Social Sciences of the University of Catania, Italy, which I joined in 2020.
 
 Before joining the University of Catania, I have been working as a Senior Researcher at the European Asylum Support Office (EASO – the EU Asylum Agency), where I was responsible for the Agency’s Research programme on the push and pull factors of asylum-related migration. Previously I have been a Lecturer and then a Senior Lecturer at the University of Malta.
 
-My research focuses mainly on the comparative analysis of institutions and public policies. I have a special interest in the interaction among migration dynamics, politics, and policy. I am a founding co-director of the [Italian Agendas Project](http://www.comparativeagendas.net/italy) and a principal investigator of the [EU Agendas Project](http://www.comparativeagendas.net/eu).
+My research focuses mainly on the comparative analysis of institutions and public policies. I have a special interest in the interaction among migration dynamics, politics, and policy. I am a founding co-director of the [Italian Agendas Project](http://www.comparativeagendas.net/italy) and of the [EU Agendas Project](http://www.comparativeagendas.net/eu).
 
 {{< icon name="download" pack="fas" >}} Complete {{< staticref "cv/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
